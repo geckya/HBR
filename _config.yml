@@ -14,13 +14,13 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+title: Houston Babywearing Resource
+subtitle: ""
+url: "http://houstonbabywearingresource" # the base hostname & protocol for your site
+# baseurl: "" # Set this value to "" if you want your site to be root
+baseurl: ""
+cover: "/assets/cover.jpg"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -30,8 +30,6 @@ markdown: kramdown
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+#  - cat: jekyll
+#    desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
